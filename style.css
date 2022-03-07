@@ -44,6 +44,7 @@ article h1 {
         color: var(--main-background-color);
         border: 2px solid;
     }
+
     article h1 {
         color: var(--main-background-color);
     }
